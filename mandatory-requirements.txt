@@ -55,3 +55,4 @@ cowpy
 selenium
 googletrans
 emoji
+covid
